@@ -1,0 +1,5 @@
+C:\Users\INSPIRON\Documents\Visual Studio 2010\Projects\tarea\tarea\bin\tarea.dll
+C:\Users\INSPIRON\Documents\Visual Studio 2010\Projects\tarea\tarea\bin\tarea.pdb
+C:\Users\INSPIRON\Documents\Visual Studio 2010\Projects\tarea\tarea\obj\Debug\tarea.dll
+C:\Users\INSPIRON\Documents\Visual Studio 2010\Projects\tarea\tarea\obj\Debug\tarea.pdb
+C:\Users\INSPIRON\Documents\Visual Studio 2010\Projects\tarea\tarea\obj\Debug\tarea.csprojResolveAssemblyReference.cache
